@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riopop.js.org/sitemap.xml
